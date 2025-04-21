@@ -56,7 +56,7 @@ jobs:
 
         shell: powershell 
 
-        run: "D:\GitHub Projects\Sample Projects\SOMEIPBasicAutosar\run.ps1"
+        run: D:\GitHub Projects\Sample Projects\SOMEIPBasicAutosar\run.ps1
 
                      
 
